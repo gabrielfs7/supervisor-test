@@ -31,7 +31,7 @@ $config['supervisor_servers'] = array(
             'password' => '123'
      )
 );
-'''
+```
 
 ### Configure your web server
 
